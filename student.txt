@@ -1,0 +1,12 @@
+mysql> desc student;
++--------+----------+------+-----+---------+-------+
+| Field  | Type     | Null | Key | Default | Extra |
++--------+----------+------+-----+---------+-------+
+| regno  | int(3)   | YES  |     | NULL    |       |
+| name   | char(15) | YES  |     | NULL    |       |
+| gender | char(1)  | YES  |     | NULL    |       |
+| dob    | int(10)  | YES  |     | NULL    |       |
+| mobno  | int(10)  | YES  |     | NULL    |       |
+| city   | char(10) | NO   | PRI |         |       |
++--------+----------+------+-----+---------+-------+
+6 rows in set (0.02 sec)
