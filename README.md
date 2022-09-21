@@ -8,4 +8,6 @@ DML COMMANDS(INSERT,SELECT)-(https://github.com/pavallasivamani/dbms/blob/main/e
 ## experiment 4
 DML COMMANDS(update,delect)-(https://github.com/pavallasivamani/dbms/blob/main/experiment%204.txt)
 ## experiment 5
-SELECT WITH VARIOUS CLAUSE-(where,pattern matching)-(
+SELECT WITH VARIOUS CLAUSE-(where,pattern matching)-(https://github.com/pavallasivamani/dbms/blob/main/dbms%20experiment%205.txt)
+## experiment 6
+SELECT WITH VARIOUS CLAUSE-(between,in,aggregate function)-(
