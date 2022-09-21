@@ -4,4 +4,6 @@ DDL COMMANDS (create,alter,drop)-(https://github.com/pavallasivamani/dbms/blob/m
 ## expriment 2
 DDL COMMANDS WITH CONSTRAINTS(primary,foreign key,unique,check)-(https://github.com/pavallasivamani/dbms/blob/main/expriment%202.txt)
 ## experiment 3
-DML COMMANDS(INSERT,SELECT)-(
+DML COMMANDS(INSERT,SELECT)-(https://github.com/pavallasivamani/dbms/blob/main/experment%203.txt)
+## experiment 4
+DML COMMANDS(update,delect)-(
